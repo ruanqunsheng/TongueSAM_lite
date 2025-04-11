@@ -1,0 +1,11 @@
+--2023-10-17 19:48:03--  https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/XFree86/Linux-x86_64/535.113.01/NVIDIA-Linux-x86_64-535.113.01.run
+正在解析主机 www.nvidia.com (www.nvidia.com)... 23.44.51.210, 23.44.51.153
+正在连接 www.nvidia.com (www.nvidia.com)|23.44.51.210|:443... 已连接。
+已发出 HTTP 请求，正在等待回应... 200 OK
+长度： 2158 (2.1K) [text/html]
+正在保存至: “confirmation.php?url=%2FXFree86%2FLinux-x86_64%2F535.113.01%2FNVIDIA-Linux-x86_64-535.113.01.run”
+
+             confirmation.   0%[                                       ]       0  --.-KB/s               confirmation.php?url=%2FXF 100%[======================================>]   2.11K  --.-KB/s    用时 0s    
+
+2023-10-17 19:48:04 (177 MB/s) - 已保存 “confirmation.php?url=%2FXFree86%2FLinux-x86_64%2F535.113.01%2FNVIDIA-Linux-x86_64-535.113.01.run” [2158/2158])
+
